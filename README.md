@@ -2,4 +2,4 @@
 Repository untuk menyimpan kode java praktikum pemrograman lanjut semester 2
 
 #Tugas 1 - 8 #
-![tugas.gif](https://drive.google.com/file/d/15EvUxMp0Xc9Mbr8YWdDN3TX_OgpDWHlf/view)
+![1](https://icons8.com/icon/v551nqGeHhGn/github)
