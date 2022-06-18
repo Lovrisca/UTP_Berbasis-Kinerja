@@ -5,4 +5,4 @@ HI! Welcome to my repository
 
 Repository ini untuk menyimpan kode java dari tugas praktikum pemrograman lanjut semester 2
 
-<img src="https://user-images.githubusercontent.com/103413005/174446595-46a2b835-3bb4-4c2f-a6ab-7f79df162329.gif" width="100">Asprak : Kak Biondy:) 
+<img src="https://user-images.githubusercontent.com/103413005/174446595-46a2b835-3bb4-4c2f-a6ab-7f79df162329.gif" width="100"> Asprak : Kak Biondy:) 
